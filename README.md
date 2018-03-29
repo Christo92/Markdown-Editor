@@ -4,10 +4,14 @@ The goal of this project is to create a markdown editor with ReactJS (with save 
 
 Library marked is used in this project
 
-## Installation :
+```
+https://www.npmjs.com/package/marked
+```
+
+## Installation of dependencies:
 
 ```
-Npm install to install the dependence
+npm install
 ```
 
 And enjoy the editor
